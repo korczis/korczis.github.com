@@ -1,6 +1,6 @@
 # Projects
 
-- [algorithms](https://github.com/korczis/algorithms) - Algorithms implementation
+- [![Build Status](https://travis-ci.org/korczis/algorithms.svg?branch=master)](https://travis-ci.org/korczis/algorithms) [algorithms](https://github.com/korczis/algorithms) - Algorithms implementation
 - [apollo-crawler-extension](https://github.com/korczis/apollo-crawler-extension) - Apollo Platform Chrome Extension
 - [apollon](https://github.com/korczis/apollon/) - Generic provisioning for vagrant, docker, cloud and others
 - [esri](https://github.com/korczis/esri) - Framework for working with ESRI datasets
