@@ -2,7 +2,7 @@
 
 - [![Build Status](https://travis-ci.org/korczis/algorithms.svg?branch=master)](https://travis-ci.org/korczis/algorithms) [algorithms](https://github.com/korczis/algorithms) - Algorithms implementation
 - [apollo-crawler-extension](https://github.com/korczis/apollo-crawler-extension) - Apollo Platform Chrome Extension
-- [apollon](https://github.com/korczis/apollon/) - Generic provisioning for vagrant, docker, cloud and others
+- [![Build Status](https://travis-ci.org/korczis/apollon.png)](https://travis-ci.org/korczis/apollon) [apollon](https://github.com/korczis/apollon/) - Generic provisioning for vagrant, docker, cloud and others
 - [esri](https://github.com/korczis/esri) - Framework for working with ESRI datasets
 - [github-extractor](https://github.com/korczis/github-extractor) - Extracts Data From Github
 - [GoodTeensy](https://gist.github.com/korczis/cdf330432fa7b4b52aba) - Teensy based launcher of GoodData Ruby SDK automation at scale.
