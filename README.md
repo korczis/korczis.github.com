@@ -11,7 +11,7 @@
 - [![Build Status](https://travis-ci.org/korczis/microcrawler.png)](https://travis-ci.org/korczis/microcrawler) [microcrawler](https://github.com/korczis/microcrawler) - Simple node.js web scrapping engine
 - [microcrawler-couchapp](https://github.com/korczis/microcrawler-couchapp) - Microcrawler Web UI for browsing results (couchapp)
 - [![Build Status](https://travis-ci.org/ApolloCrawler/microscratch.svg?branch=master)](https://travis-ci.org/ApolloCrawler/microscratch) [microscratch](https://github.com/korczis/microscratch) - Light Weight Web Framework using node.js, mongo, sockets, ember.js
-- [peacemaker](https://github.com/korczis/peacemaker) - Packet sniffing and processing engine
+- [![Build Status](https://travis-ci.org/korczis/peacemaker.svg?branch=master)](https://travis-ci.org/korczis/peacemaker) [peacemaker](https://github.com/korczis/peacemaker) - Packet sniffing and processing engine
 - [ratnet](https://github.com/korczis/ratnet) - Educational Purposes Botnet
 - [skull](https://github.com/korczis/skull) - Programming learning materials, examples, sources ...
   * [![Build Status](https://travis-ci.org/korczis/skull-c.svg?branch=master)](https://travis-ci.org/korczis/skull-c) [skull-c](https://github.com/korczis/skull-c) - C
