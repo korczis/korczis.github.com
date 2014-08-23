@@ -10,7 +10,7 @@
 - [libfr](https://github.com/korczis/libfr) - Library for face recognition using Waldboost algorithm
 - [![Build Status](https://travis-ci.org/korczis/microcrawler.png)](https://travis-ci.org/korczis/microcrawler) [microcrawler](https://github.com/korczis/microcrawler) - Simple node.js web scrapping engine
 - [microcrawler-couchapp](https://github.com/korczis/microcrawler-couchapp) - Microcrawler Web UI for browsing results (couchapp)
-- [microscratch](https://github.com/korczis/microscratch) - Light Weight Web Framework using node.js, mongo, sockets, ember.js
+- [![Build Status](https://travis-ci.org/ApolloCrawler/microscratch.png?branch=master)](https://travis-ci.org/ApolloCrawler/microscratch) [microscratch](https://github.com/korczis/microscratch) - Light Weight Web Framework using node.js, mongo, sockets, ember.js
 - [peacemaker](https://github.com/korczis/peacemaker) - Packet sniffing and processing engine
 - [ratnet](https://github.com/korczis/ratnet) - Educational Purposes Botnet
 - [skull](https://github.com/korczis/skull) - Programming learning materials, examples, sources ...
