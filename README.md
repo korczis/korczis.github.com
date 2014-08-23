@@ -8,7 +8,7 @@
 - [GoodTeensy](https://gist.github.com/korczis/cdf330432fa7b4b52aba) - Teensy based launcher of GoodData Ruby SDK automation at scale.
 - [iCave](https://github.com/korczis/icave) - Open Home Automation Platform
 - [libfr](https://github.com/korczis/libfr) - Library for face recognition using Waldboost algorithm
-- [microcrawler](https://github.com/korczis/microcrawler) - Simple node.js web scrapping engine
+- [![Build Status](https://travis-ci.org/korczis/microcrawler.png)](https://travis-ci.org/korczis/microcrawler) [microcrawler](https://github.com/korczis/microcrawler) - Simple node.js web scrapping engine
 - [microcrawler-couchapp](https://github.com/korczis/microcrawler-couchapp) - Microcrawler Web UI for browsing results (couchapp)
 - [microscratch](https://github.com/korczis/microscratch) - Light Weight Web Framework using node.js, mongo, sockets, ember.js
 - [peacemaker](https://github.com/korczis/peacemaker) - Packet sniffing and processing engine
